@@ -75,7 +75,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"Spark-X-2025",
+      "value":"BEDOSKING",
       "required":false
 
     } ,
@@ -105,7 +105,7 @@
     "SESSION_ID":
     {
       "description":"put your session ID , the code you receive after linking the device...(Make sure it begins with SPARK-X-2025)",   
-      "value":"",
+      "value":"SPARK-X-2025;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiVUU3S3VicG56WDhrWDdQZUlBMzkwWGxZTVNwUHhWaUpiOC83czBVbWpHcz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiYkF1SU9rVjdSSGIvUTlNV3dVOVVXZi82L3BFSk9nMDYzWEQ4K01QbXRITT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJPTStONDN4RllKT1RpSjJtdWJvSGRrM3V1NHgyR1BhZS9UT2pWdXUxNW5FPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJreFNrS01OaTE5RGVTQk1NcmZCMWx4QjBUbGNqcjBFRXZRRHJZMEY0RWlzPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IktEZWRDQ0czWmEvMytVSUdPNnBLSGg4TlhpbStVNnZ0OENzUTJHT1dqR009In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ik1qU0pISHNsWWUzSEFqRlQ1dkk1aENiSHJiMVVSSDAvWEJNbzFjaHVUMFk9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoic0J2Nk9jcS9hQkwyOGRmZFpvTHNVWGI5WlFYWW1kU3Uvb1JGV1VvMjVuQT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicDJHNXVaSzlDVlFudU1MS0JWNjNTZ1gzaUsyK25kaE5ieXZtNklZcURDRT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkIwS1JrR1lIVnZsaFhUT0JrRFMxaVhEMnkwZkk1WkJQK1BQcGZQVFBKaFJ6cVQ3ZFNVVUZ0U1VUQTc2MWVac3pHemNXa216am9iYk5reWQxeHkwa2pBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6ODYsImFkdlNlY3JldEtleSI6Ijd1T3p0QnR2c1p2SVpSQjBhc3l3b1FrUnBIcTEzZnZqTUpaSXR3dDRTbU09IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbeyJrZXkiOnsicmVtb3RlSmlkIjoiMjM3NjgxOTg1MzczQHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6IjNBNEUzQzIzNjcyMEREOUY5NUM0In0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3NDU1NTk1NjV9LHsia2V5Ijp7InJlbW90ZUppZCI6IjIzNzY4MTk4NTM3M0BzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiIzQUVCNDc4QzIwQzY1QTcwMDEwQyJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzQ1NTU5NTY4fSx7ImtleSI6eyJyZW1vdGVKaWQiOiIyMzc2ODE5ODUzNzNAcy53aGF0c2FwcC5uZXQiLCJmcm9tTWUiOnRydWUsImlkIjoiM0ExQ0Y1NUIxQzAwNkIwQjgzMjUifSwibWVzc2FnZVRpbWVzdGFtcCI6MTc0NTU1OTU4NH0seyJrZXkiOnsicmVtb3RlSmlkIjoiMjM3NjgxOTg1MzczQHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6IjNBQzg1MEIxNTBDNTJCOTkyQzhGIn0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3NDU1NTk1ODl9LHsia2V5Ijp7InJlbW90ZUppZCI6IjIzNzY4MTk4NTM3M0BzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiIzQTAyMjkwNjEzQzg2NTY0NUI1MiJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzQ1NTU5NTg5fV0sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjoxLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJabnhFUERJR1NFNlJTMnEwRE9XTXJnIiwicGhvbmVJZCI6IjBjYmFhZTYzLTZlODItNDQ3Yi1hYmViLTZhOGI3NzJmN2JkYyIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJPRU9rT3dBWTRZaE50YmtjSTVHM1BnUWZoQlE9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiM0dOWXIzSjJQejk1YlU4dkp5bFRFZks1YU00PSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IlBSVkY1TUdRIiwibWUiOnsiaWQiOiIyMzc2ODE5ODUzNzM6MTFAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoiQmVkb3NraW5nIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNKbVNuWjhHRVBxL3JNQUdHQUVnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiI2akh3ZFc2M3FNeXh5ZzRvUjV6RFR4REhnSGNxK0lnUkZBTGYzek1XbjJ3PSIsImFjY291bnRTaWduYXR1cmUiOiJXc1U2V2QrUlZUTFdIQUcvWVZEUlY4amRVZU1GdldWVmRvNWkydkRiaGZMSUxKaDkvc2J0V0tWZkt2blYvN2ZkQ0UvOXV0TE1EY1M5QXJLOEFsdTdpdz09IiwiZGV2aWNlU2lnbmF0dXJlIjoibkZWWnNIaUdMSDlkZytqbkhlTTVUZ0hCRHBxVWJrMGtrOENIQlpjSjBaaFVYckZuNEtVcGd2ZThUbDB6d0gyNFJtbW90VnZ4dnprbjVQL29DdTBBalE9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyMzc2ODE5ODUzNzM6MTFAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCZW94OEhWdXQ2ak1zY29PS0VlY3cwOFF4NEIzS3ZpSUVSUUMzOTh6RnA5cyJ9fV0sInBsYXRmb3JtIjoiaXBob25lIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzQ1NTU5NTU5LCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQUV6LyJ9",
       "required":true
       
     },
@@ -114,9 +114,9 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝐂𝐚𝐫𝐥 𝐖𝐢𝐥𝐥𝐢𝐚𝐦"
+    "value": "KINDLÜVER"
   },
-    "NUMERO_OWNER":
+    "NUMERO_OWNER":237681985373
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')....Must put the number connected to the session ID",
@@ -137,7 +137,7 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"",
+    "value":"3",
     "required": false
   },
   "ANTIDELETE1" : {
@@ -166,7 +166,7 @@
   "ANTI_CALL":
   {
     "description": "if this feature is active,any incoming whatsapp call will be rejected,put yes to activate,else put no...(use small letters)",
-    "value": "yes",
+    "value": "no",
     "required": false
   },
   "ANTEDELETE2":
