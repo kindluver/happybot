@@ -18,11 +18,31 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {
   "name":"Spark-X-2025",
   "description":"Whatsapp bot developed by Carl William",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/n0hlw1.jpg",
+  "logo":"https://files.catbox.moe/9y2ouw.jpg",
   "repository":"https://github.com/ekitale/maths-project",
   "succes_url":"/",
   "stack":"heroku-24",
@@ -47,6 +67,18 @@
     "AUTO_REACT":
     {
       "description":"Received messages will be automalically reacted on(type yes to active or no to deactive  ; don't write in capital letter)",
+      "value":"no",
+      "required":false
+    },
+    "CHATBOT":
+    {
+      "description":"the chatbot will automatically reply messages with texts.",
+      "value":"no",
+      "required":false
+    },
+    "CHATBOT1":
+    {
+      "description":"the chatbot will automatically reply messages with audio.",
       "value":"no",
       "required":false
     }
@@ -82,7 +114,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/n0hlw1.jpg",
+      "value":"https://files.catbox.moe/uqhujo.jpg",
       "required":false
        
      },
@@ -163,7 +195,7 @@
     "value": "yes",
     "required": false
   },
-  "ANTI_CALL":
+  "ANTICALL":
   {
     "description": "if this feature is active,any incoming whatsapp call will be rejected,put yes to activate,else put no...(use small letters)",
     "value": "no",
